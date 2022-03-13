@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adrianperezb
+- 👀 I’m interested in software development
+- 🌱 I’m currently a computer engineering student at the University of South Florida
+- 📫 How to reach me @adrian1105p@gmail.com
